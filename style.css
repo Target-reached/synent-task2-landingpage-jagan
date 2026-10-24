@@ -175,3 +175,6 @@ textarea:focus {
         min-height: 220px
     }
 }
+
+#faq details { margin: 12px 0; padding: 16px; border: 1px solid #ccd4e2; border-radius: 10px; background: white; }
+#faq summary { cursor: pointer; font-weight: 700; }
